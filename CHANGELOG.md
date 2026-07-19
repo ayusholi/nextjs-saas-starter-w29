@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- configure linting and code formatter
-- Build: 2026-07-16T13:00:01.140Z
+- simplify conditional logic
+- Updated: 2026-07-19T13:00:02.472Z
