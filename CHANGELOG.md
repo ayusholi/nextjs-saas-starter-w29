@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- implement token-based authentication
-- Build: 2026-07-19T13:00:02.472Z
+- simplify conditional logic
+- Updated: 2026-07-24T13:00:01.718Z
